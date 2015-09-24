@@ -1,0 +1,26 @@
+{
+  "name": "mean-app-example",
+  "version": "0.0.0",
+  "description": "Basic MEAN stack example app. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nl79/mean-example.git"
+  },
+  "author": "Nazar Lesiv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nl79/mean-example/issues"
+  },
+  "homepage": "https://github.com/nl79/mean-example#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "jade": "^1.11.0"
+  },
+  "devDependencies": {
+    "bower": "^1.5.2"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "mean-example",
+  "version": "0.0.0",
+  "homepage": "https://github.com/nl79/mean-example",
+  "authors": [
+    "nazarlesiv <nl79@njit.edu>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.6",
+    "angular-resource": "~1.4.6",
+    "angular-route": "~1.4.6",
+    "jquery": "~2.1.4",
+    "toastr": "~2.1.2"
+  }
+}
